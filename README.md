@@ -1,2 +1,2 @@
 # covid
-Working on a visualization dashboard
+Working on EDA and a data visualization dashboard
